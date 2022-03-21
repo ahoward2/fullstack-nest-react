@@ -6,7 +6,7 @@
 
 **Fullstack development**
 
-Concurrently runs the react client with hot reloading and the go server. Requests from the client in development are proxied to the server port.
+Concurrently runs the react client with hot reloading and the nest server. Requests from the client in development are proxied to the server port.
 
 - `Client port`: 3002
 - `Nest server port`: 8080
